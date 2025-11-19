@@ -1,5 +1,5 @@
 
-const WORK_TIME = 1*60;  // 25 minutes
+const WORK_TIME = 25*60;  // 25 minutes
 const BREAK_TIME = 5 * 60;  // 5 minutes
 
 let remainingTime = WORK_TIME;
